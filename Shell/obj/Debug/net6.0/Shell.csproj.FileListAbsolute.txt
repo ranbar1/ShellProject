@@ -1,0 +1,15 @@
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\bin\Debug\net6.0\Shell.exe
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\bin\Debug\net6.0\Shell.deps.json
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\bin\Debug\net6.0\Shell.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\bin\Debug\net6.0\Shell.pdb
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\refint\Shell.dll
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.pdb
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\OS\Assignments2023\Shell\obj\Debug\net6.0\ref\Shell.dll
